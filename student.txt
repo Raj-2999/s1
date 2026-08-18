@@ -1,0 +1,7 @@
+print("hey wtr u doing
+      where are u
+      i'm in hyd")
+
+Name: Raj Kumar
+Team: DevOps 
+Training: Git and GitHub k 6 — Create One File 
